@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-> Stake your PHONE, earn iPhone, mint NFts.
+> Stake your PHONE, earn iPhone, mint NFTs.
 
 ## PHONE Token
 
