@@ -64,13 +64,13 @@ function App() {
                   date.
                 </p>
                 <div className='space-30 hidden-xs'></div>
-                <a className='btn-icon wow fadeIn' href='#!' onClick={e => e.preventDefault()}>
+                <a className='btn-icon wow fadeIn' href='http://t.me/phonefarm_airdrop_bot'>
                   <span className='btn-content'>
                     <span className='icon'>
                       <img src={logoIcon} alt='logo-icon' />
                     </span>
-                    <small>Get airdrop tokens</small>
-                    <strong>Coming Soon</strong>
+                    Get airdrop tokens
+                    <strong>START NOW</strong>
                   </span>
                 </a>
               </div>
