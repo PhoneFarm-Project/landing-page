@@ -154,7 +154,7 @@ function App() {
                   </a>
                 </div>
                 <div className='col-1 icon'>
-                  <a href='https://medium.com/@phonefarm.finance'>
+                  <a href='https://phonefarm-finance.medium.com/'>
                     <img src={medium} alt='' width='36px' />
                   </a>
                 </div>
